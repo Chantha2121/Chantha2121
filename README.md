@@ -32,7 +32,7 @@
 
   <!-- GitHub Stats -->
   <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ChoeurnChantha&show_icons=true&theme=gruvbox&count_private=true" alt="ChoeurnChantha's GitHub Stats" style="max-width: 400px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Chantha2121&show_icons=true&theme=gruvbox&count_private=true" alt="ChoeurnChantha's GitHub Stats" style="max-width: 400px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);"/>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChoeurnChantha&theme=xcode&hide_border=true" alt="GitHub Activity Graph" />
   </div>
 
